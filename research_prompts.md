@@ -54,20 +54,6 @@ Provide a structured report with actionable product recommendations.
 
 ***Prompt for Module 4: The Mentorship Core (AI & Human)***
 
-**Act as an expert in AI-enabled education and community building.** Conduct a deep analysis of "AI mentor" chatbots (e.g., Khanmigo, Quizlet's Q-Chat) and online mentorship platforms (e.g., MentorCruise, ADPList) for young learners.
-
-Your goal is to design a hybrid "human-in-the-loop" mentorship system that is scalable yet deeply personal. Please provide:
-
-1.  **Critical Evaluation:** Identify the failures of current AI mentors (e.g., shallow responses, lack of context) and the limitations of human-only platforms (e.g., lack of scalability, high cost). How can a hybrid model solve these?
-2.  **Socratic AI Mentor Features:** Define the specific capabilities a "Socratic AI Mentor" must have for our platform (e.g., "Context-Awareness of the learner's current story and project," "Ability to ask probing questions instead of giving answers"). Propose a phased feature rollout for this AI.
-3.  **Intergenerational Matching Algorithm:** Research and propose a framework for an algorithm that matches young learners with older adult mentors not just based on skills, but on **complementary personality traits, values, and learning goals.** What data points are needed?
-4.  **Structured Mentorship Programs:** Suggest a list of 5-7 structured "Mentorship Streams" or programs (e.g., "The Ethical Tech Sprint," "The Creative Freelancer Path") that combine AI-guided learning with scheduled human mentor sessions. Outline the curriculum for one.
-
-Provide a structured report with a technical and operational plan for building this core module.
-
-
-***Prompt for Module 4: The Mentorship Core (AI & Human)***
-
 
 
 **Act as an expert in AI-enabled education and community building.** Conduct a deep analysis of "AI mentor" chatbots (e.g., Khanmigo, Quizlet's Q-Chat) and online mentorship platforms (e.g., MentorCruise, ADPList) for young learners.
